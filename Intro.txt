@@ -5,3 +5,4 @@ I am a DevOps Engineer and learning new tools.
 I am working as a  UI/UX Intern in Kartexa .
 I like Designing.
 I am in 7th sem right now.
+I have learnt docker.
